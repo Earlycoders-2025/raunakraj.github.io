@@ -27,7 +27,7 @@ I'm passionate about coding and aim to start freelancing soon.
 
 ## 📷 Project Screenshots
 
-Screenshots and images used in this site are located inside the `images/` folder.
+Screenshots and images used in this site are located inside the `Assets/` folder.
 
 ---
 
